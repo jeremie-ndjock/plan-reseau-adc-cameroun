@@ -22,7 +22,7 @@ Le plan a été conçu avec une organisation en **calques distincts** par systè
 
 ## 🗺️ Aperçu du plan
 
-![Plan réseau général](exports/presentation-generale.pdf)
+![Plan réseau général](assets/apercu-plan-general.png)
 
 ---
 
